@@ -9,7 +9,7 @@ layout: home
 ---
 I'm Preston Cranford, and I'm a PhD student in mathematics at Northwestern University.
 
-In the Spring 2024 quarter I'm co-organizing a [seminar on synthetic spectra][https://sites.northwestern.edu/syntheticspectraseminar/].
+In the Spring 2024 quarter I'm co-organizing a [seminar on synthetic spectra](https://sites.northwestern.edu/syntheticspectraseminar/).
 
 ## Papers
 
