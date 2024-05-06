@@ -13,6 +13,6 @@ In the Spring 2024 and Summer 2024 quarters I'm co-organizing a [seminar on synt
 
 ## Papers
 
-Projective toric varieties of codimension 2 withmaximal Castelnuovo-Mumford regularity with Alan Peng, and Vijay Srinivasan. [J. Pure Appl. Algebra](https://doi.org/10.1016/j.jpaa.2022.107162) [arXiv:2106.12667](https://arxiv.org/abs/2106.12667).
+Projective toric varieties of codimension 2 withmaximal Castelnuovo-Mumford regularity with Alan Peng, and Vijay Srinivasan. [J. Pure Appl. Algebra](https://doi.org/10.1016/j.jpaa.2022.107162). [arXiv:2106.12667](https://arxiv.org/abs/2106.12667).
 
-Biconed graphs, weighted forests, and h-vectors of matroid complexes with Anton Dochtermann, Evan Haithcock, Joshua Marsh, Suho Oh, and Anna Truman. Electron. J. Combin., 28(4):Paper No. 4.31, 23, 2021. [Electron. J. Combin.](https://doi.org/10.37236/9849) [arXiv:2005.09138](https://arxiv.org/abs/2005.09138)
+Biconed graphs, weighted forests, and h-vectors of matroid complexes with Anton Dochtermann, Evan Haithcock, Joshua Marsh, Suho Oh, and Anna Truman. [Electron. J. Combin.](https://doi.org/10.37236/9849). [arXiv:2005.09138](https://arxiv.org/abs/2005.09138).
