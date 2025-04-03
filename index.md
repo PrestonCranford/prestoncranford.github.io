@@ -11,6 +11,8 @@ I'm Preston Cranford, and I'm a PhD student in mathematics at Northwestern Unive
 
 ## Writings
 
+I wrote notes on my talk at [Talbot 2024](https://sites.google.com/view/talbotworkshop/past-talbots/talbot-2024).
+
 Finding Bounded Simplicial Sets with Finite Homology with Peter Rowley. [arXiv:2112.12230](https://arxiv.org/abs/2112.12230).
 
 Projective toric varieties of codimension 2 withmaximal Castelnuovo-Mumford regularity with Alan Peng, and Vijay Srinivasan. [J. Pure Appl. Algebra](https://doi.org/10.1016/j.jpaa.2022.107162). [arXiv:2106.12667](https://arxiv.org/abs/2106.12667).
