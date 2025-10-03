@@ -24,3 +24,5 @@ Biconed graphs, weighted forests, and h-vectors of matroid complexes with Anton 
 ## Seminar
 
 In the Spring 2024 quarter I co-organized a [seminar on synthetic spectra](https://sites.northwestern.edu/syntheticspectraseminar/).
+
+This is a test: $\mathbb{Z}$.
