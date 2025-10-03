@@ -11,9 +11,9 @@ I'm Preston Cranford, and I'm a PhD student in mathematics at Northwestern Unive
 
 ## Writings
 
-I wrote notes on my talk at [European Talbot 2025](https://sites.google.com/view/european-talbot/2025-workshop?authuser=0).
+I wrote notes on my talk "Lecture 15: K(1)-local Power Operations" at [European Talbot 2025](https://sites.google.com/view/european-talbot/2025-workshop?authuser=0).
 
-I wrote notes on my talk at [Talbot 2024](https://sites.google.com/view/talbotworkshop/past-talbots/talbot-2024).
+I wrote notes on my talk "Syntomic Cohomology of $\mathbb{Z}$ and $\ell$" at [Talbot 2024](https://sites.google.com/view/talbotworkshop/past-talbots/talbot-2024).
 
 Finding Bounded Simplicial Sets with Finite Homology with Peter Rowley. [arXiv:2112.12230](https://arxiv.org/abs/2112.12230).
 
@@ -24,5 +24,3 @@ Biconed graphs, weighted forests, and h-vectors of matroid complexes with Anton 
 ## Seminar
 
 In the Spring 2024 quarter I co-organized a [seminar on synthetic spectra](https://sites.northwestern.edu/syntheticspectraseminar/).
-
-This is a test: $\mathbb{Z}$.
