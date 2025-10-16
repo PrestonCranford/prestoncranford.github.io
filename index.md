@@ -11,7 +11,7 @@ I'm Preston Cranford, and I'm a PhD student in mathematics at Northwestern Unive
 
 ## Writings
 
-I wrote notes on my talk "Lecture 15: K(1)-local Power Operations" at [European Talbot 2025](https://sites.google.com/view/european-talbot/2025-workshop?authuser=0). [[PDF](assets/K(1)-local_Power_Operations_Cranford_2025_10_03.pdf)].
+I wrote notes on my talk "K(1)-local Power Operations" at [European Talbot 2025](https://sites.google.com/view/european-talbot/2025-workshop?authuser=0). [[PDF](assets/K(1)-local_Power_Operations_Cranford_2025_10_03.pdf)].
 
 I wrote notes on my talk "Syntomic Cohomology of $\mathbb{Z}$ and $\ell$" at [Talbot 2024](https://sites.google.com/view/talbotworkshop/past-talbots/talbot-2024). [[PDF](assets/Syntomic_Cohomology_of_Z_and_ell_Cranford_2025_10_03.pdf)].
 
