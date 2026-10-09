@@ -7,13 +7,11 @@
 #
 layout: home
 ---
-I'm Preston Cranford, and I'm a PhD student in mathematics at Northwestern University advised by [Ben Antieau](https://antieau.github.io/).
+I'm Preston Cranford, and I'm a PhD student in mathematics at Northwestern University advised by [Ben Antieau](https://antieau.github.io/). In the 2026-2027 school year I am applying for jobs.
 
-## Writings
+## Research Papers
 
-I wrote notes on my talk "K(1)-local Power Operations" at [European Talbot 2025](https://sites.google.com/view/european-talbot/2025-workshop?authuser=0). [[PDF](assets/K(1)-local_Power_Operations_Cranford_2025_10_03.pdf)].
-
-I wrote notes on my talk "Syntomic Cohomology of $\mathbb{Z}$ and $\ell$" at [Talbot 2024](https://sites.google.com/view/talbotworkshop/past-talbots/talbot-2024). [[PDF](assets/Syntomic_Cohomology_of_Z_and_ell_Cranford_2025_10_03.pdf)].
+Generalized Thom Spectra, Conjugate Stacks, and truncated Brown-Peterson Spectra. [[PDF](assets/20261009v1_GTS_CS_TBPS.pdf)].
 
 Finding Bounded Simplicial Sets with Finite Homology with Peter Rowley. [[arXiv:2112.12230](https://arxiv.org/abs/2112.12230)].
 
@@ -21,6 +19,11 @@ Projective toric varieties of codimension 2 withmaximal Castelnuovo-Mumford regu
 
 Biconed graphs, weighted forests, and h-vectors of matroid complexes with Anton Dochtermann, Evan Haithcock, Joshua Marsh, Suho Oh, and Anna Truman. [[Electron. J. Combin.](https://doi.org/10.37236/9849)]. [[arXiv:2005.09138](https://arxiv.org/abs/2005.09138)].
 
-## Seminar
+
+## Other Resources
+
+I wrote notes on my talk "K(1)-local Power Operations" at [European Talbot 2025](https://sites.google.com/view/european-talbot/2025-workshop?authuser=0). [[PDF](assets/K(1)-local_Power_Operations_Cranford_2025_10_03.pdf)].
+
+I wrote notes on my talk "Syntomic Cohomology of $\mathbb{Z}$ and $\ell$" at [Talbot 2024](https://sites.google.com/view/talbotworkshop/past-talbots/talbot-2024). [[PDF](assets/Syntomic_Cohomology_of_Z_and_ell_Cranford_2025_10_03.pdf)].
 
 In the Spring 2024 quarter I co-organized a [seminar on synthetic spectra](https://sites.northwestern.edu/syntheticspectraseminar/).
