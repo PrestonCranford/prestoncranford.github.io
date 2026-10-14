@@ -11,14 +11,13 @@ I'm Preston Cranford, and I'm a PhD student in mathematics at Northwestern Unive
 
 ## Research Papers
 
-Generalized Thom Spectra, Conjugate Stacks, and truncated Brown-Peterson Spectra. [[PDF](assets/20261009v1_GTS_CS_TBPS.pdf)].
+Generalized Thom Spectra, Conjugate Stacks, and truncated Brown-Peterson Spectra. [[arXiv](https://arxiv.org/abs/2610.18754)].
 
-Finding Bounded Simplicial Sets with Finite Homology with Peter Rowley. [[arXiv:2112.12230](https://arxiv.org/abs/2112.12230)].
+Finding Bounded Simplicial Sets with Finite Homology with Peter Rowley. [[arXiv](https://arxiv.org/abs/2112.12230)].
 
-Projective toric varieties of codimension 2 withmaximal Castelnuovo-Mumford regularity with Alan Peng, and Vijay Srinivasan. [[J. Pure Appl. Algebra](https://doi.org/10.1016/j.jpaa.2022.107162)]. [[arXiv:2106.12667](https://arxiv.org/abs/2106.12667)].
+Projective toric varieties of codimension 2 withmaximal Castelnuovo-Mumford regularity with Alan Peng, and Vijay Srinivasan. [[J. Pure Appl. Algebra](https://doi.org/10.1016/j.jpaa.2022.107162)]. [[arXiv](https://arxiv.org/abs/2106.12667)].
 
-Biconed graphs, weighted forests, and h-vectors of matroid complexes with Anton Dochtermann, Evan Haithcock, Joshua Marsh, Suho Oh, and Anna Truman. [[Electron. J. Combin.](https://doi.org/10.37236/9849)]. [[arXiv:2005.09138](https://arxiv.org/abs/2005.09138)].
-
+Biconed graphs, weighted forests, and h-vectors of matroid complexes with Anton Dochtermann, Evan Haithcock, Joshua Marsh, Suho Oh, and Anna Truman. [[Electron. J. Combin.](https://doi.org/10.37236/9849)]. [[arXiv](https://arxiv.org/abs/2005.09138)].
 
 ## Other Resources
 
