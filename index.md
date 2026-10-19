@@ -11,6 +11,8 @@ I'm Preston Cranford, and I'm a PhD student in mathematics at Northwestern Unive
 
 ## Research Papers
 
+$\mathbb{\C}$-Motivic Eilenberg-Mac Lane Spectra as MGL-Motivic Thom spectra and Normed $\mathbb{G}_m$-Hochschild Homology. [[PDF](assets/motivic_thom_20261019v2.pdf)].
+
 Generalized Thom Spectra, Conjugate Stacks, and truncated Brown-Peterson Spectra. [[arXiv](https://arxiv.org/abs/2610.18754)].
 
 Finding Bounded Simplicial Sets with Finite Homology with Peter Rowley. [[arXiv](https://arxiv.org/abs/2112.12230)].
