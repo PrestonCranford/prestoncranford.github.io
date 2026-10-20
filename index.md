@@ -11,13 +11,13 @@ I'm Preston Cranford, and I'm a PhD student in mathematics at Northwestern Unive
 
 ## Research Papers
 
-$\mathbb{C}$-Motivic Eilenberg-Mac Lane Spectra as MGL-Motivic Thom Spectra and Normed $\mathbb{G}_m$-Hochschild Homology. [[PDF](assets/motivic_thom_20261019v2.pdf)].
+$\mathbb{C}$-Motivic Eilenberg-Mac Lane Spectra as MGL-Motivic Thom Spectra and Normed $\mathbb{G}_m$-Hochschild Homology. [[arXiv](https://arxiv.org/abs/2610.26771)].
 
 Generalized Thom Spectra, Conjugate Stacks, and truncated Brown-Peterson Spectra. [[arXiv](https://arxiv.org/abs/2610.18754)].
 
 Finding Bounded Simplicial Sets with Finite Homology with Peter Rowley. [[arXiv](https://arxiv.org/abs/2112.12230)].
 
-Projective toric varieties of codimension 2 withmaximal Castelnuovo-Mumford regularity with Alan Peng, and Vijay Srinivasan. [[J. Pure Appl. Algebra](https://doi.org/10.1016/j.jpaa.2022.107162)]. [[arXiv](https://arxiv.org/abs/2106.12667)].
+Projective toric varieties of codimension 2 withmaximal Castelnuovo-Mumford regularity with Alan Peng and Vijay Srinivasan. [[J. Pure Appl. Algebra](https://doi.org/10.1016/j.jpaa.2022.107162)]. [[arXiv](https://arxiv.org/abs/2106.12667)].
 
 Biconed graphs, weighted forests, and h-vectors of matroid complexes with Anton Dochtermann, Evan Haithcock, Joshua Marsh, Suho Oh, and Anna Truman. [[Electron. J. Combin.](https://doi.org/10.37236/9849)]. [[arXiv](https://arxiv.org/abs/2005.09138)].
 
