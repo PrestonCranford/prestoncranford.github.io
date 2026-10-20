@@ -7,7 +7,7 @@
 #
 layout: home
 ---
-I'm Preston Cranford, and I'm a PhD student in mathematics at Northwestern University advised by [Ben Antieau](https://antieau.github.io/). In the 2026-2027 school year I am applying for jobs. My CV is here: [[PDF](assets/CV_20261014v1_Cranford.pdf)].
+I'm Preston Cranford, and I'm a PhD student in mathematics at Northwestern University advised by [Ben Antieau](https://antieau.github.io/). In the 2026-2027 school year I am applying for jobs. My CV is here: [[PDF](assets/CV_20261019v1_Cranford.pdf)].
 
 ## Research Papers
 
